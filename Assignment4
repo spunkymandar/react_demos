@@ -1,0 +1,5 @@
+Create a react application FullNameGenerator, which contains NameComponent component in the main component i.e. App component.
+In NameComponent, add two textfields to enter the firstname and the last name. 
+The NameComponent should generate the fullname automatically upon the values changed in the firstname and the last name. 
+
+(make the use of useState(), also update the code using the callback function for state updates)
