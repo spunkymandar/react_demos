@@ -1,0 +1,3 @@
+Modify assignment 4, by using the concept of lifting state up
+(Hint: To display the fullname create another component FullName. The NameComponent and FullNameComponent should be present at the same level to share the data from the firstname and the last name.)
+
