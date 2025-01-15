@@ -1,0 +1,11 @@
+
+Interview Questions for useState
+-------------------------------------------
+1. Which “problem” does state solve?
+2. What's the difference between “props” and “state”?
+3. How is state registered in a component?
+4. Which values does the useState() Hook provide?
+5. How many state values can be registered for a single component?
+6. Does state affect other components (than the component in which it was registered) as well?
+7. How should state be updated if the new state depends on the previous state?
+8. How can state be shared across multiple components?
